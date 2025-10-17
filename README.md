@@ -1,46 +1,46 @@
-<!-- 🌌 SUPER ANIMATED GITHUB PROFILE README -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Hey+👋,+I'm+YOUR+NAME!;Full-Stack+Web+Developer+💻;Designing+and+Building+Digital+Experiences!" alt="Typing SVG" />
-</h1>
-
+<!-- 🚀 BOLD & ANIMATED GITHUB PROFILE README for ORKO BISWAS -->
 <p align="center">
-  <a href="https://github.com/YOURUSERNAME"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/YOURUSERNAME"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0066FF&height=200&section=header&text=ORKO%20BISWAS&fontSize=45&fontColor=ffffff&fontAlignY=40&desc=Creative%20Web%20Developer%20|%20Full%20Stack%20Engineer%20|%20Tech%20Artist&descAlignY=60&descAlign=50" alt="header"/>
 </p>
 
----
-
-### ⚡ About Me
-💡 Frontend Engineer specialized in **JavaScript**, **React**, and **Next.js**  
-🧠 Backend builder with **Firebase**, **Node.js**, **Django**, and **AWS Cloud**  
-🎨 Passionate about **UI/UX**, **minimal design**, and **motion interfaces**  
-🚀 Currently exploring **Serverless Architectures** and **AI-powered apps**
+<h3 align="center">💻 Building the Future of the Web with Code, Creativity, and Curiosity ⚡</h3>
 
 ---
 
-### 🧰 Tech Stack
+### 🧠 About Me
+
+🔥 **Hey there! I’m ORKO BISWAS**, a passionate **Full Stack Web Developer**  
+🚀 I craft interactive, high-performance web experiences with **React, Next.js, WordPress & PHP**  
+☁️ I power the backend with **Firebase**, **Node.js**, **Django**, and **AWS Cloud**  
+🎨 I live for **design systems**, **clean architecture**, and **fluid animations**  
+💬 Let’s build something extraordinary together!
+
+---
+
+### ⚙️ Tech Arsenal
 
 <div align="center">
 
-#### 🖥️ Frontend
-<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,vue,tailwind,html,css" />
+#### 🖥️ Frontend & Design
+<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,vue,html,css,tailwind,figma,bootstrap" />
 
-#### ⚙️ Backend & Cloud
-<img src="https://skillicons.dev/icons?i=nodejs,firebase,django,aws,express,mongodb,python" />
+#### ⚙️ Backend & CMS
+<img src="https://skillicons.dev/icons?i=php,wordpress,nodejs,django,firebase,aws,express,mongodb,python" />
 
-#### 🧩 Tools
-<img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,docker,github,vercel" />
+#### 🧩 Tools & Workflow
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,postman,vercel,netlify,linux" />
 
 </div>
 
 ---
 
-### 🧑‍💻 My Development Vibe
+### 🧬 My Developer Philosophy
 
 ```javascript
-const developer = {
-  passion: "Code + Design = ❤️",
-  tools: ["React", "Next.js", "Firebase", "AWS"],
-  mindset: "Learn. Build. Improve. Repeat."
-}
+const orkoBiswas = {
+  code: ["JavaScript", "React", "Next.js", "PHP", "Node.js", "Django", "Firebase", "AWS"],
+  focus: "Building dynamic websites & creative digital solutions",
+  motto: "Code. Design. Automate. Innovate.",
+  currentlyLearning: ["Cloud DevOps", "AI Integration", "Advanced Motion UI"],
+  funFact: "I debug faster with coffee ☕ and synthwave 🎧"
+};
